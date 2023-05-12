@@ -10,7 +10,7 @@ Los siguientes scripts son un curriculum vitae realizado en html y css puedes ed
 
 Clona el proyecto en la carpeta de tu preferencia de la siguiente manera:
 ```json
-gitcone: https://github.com/gabribu/curriculum_v.git
+gitcone: https://github.com/gabribu/cv.git
 ```
 Para ejecutarlo tienes que ir a tu navegador favorito, una vez ahí tendrás que seguir estos pasos:
     
